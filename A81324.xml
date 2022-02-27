@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions given by Anthony Daffey, for taking the safe, innocent, and successful cordial drink, called Elixir Salutis, truly prepared by me Ellen. Daffey now living in the square in Salisbury-Court, in the house that was formerly Dr. Brown's, near Fleetstreet, a large golden ball being over the gate.</title>
+            <author>Daffey, Ellen.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81324</idno>
+            <idno type="STC">Wing D107A</idno>
+            <idno type="STC">ESTC R231366</idno>
+            <idno type="EEBO-CITATION">99897283</idno>
+            <idno type="PROQUEST">99897283</idno>
+            <idno type="VID">137002</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137002)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2479:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions given by Anthony Daffey, for taking the safe, innocent, and successful cordial drink, called Elixir Salutis, truly prepared by me Ellen. Daffey now living in the square in Salisbury-Court, in the house that was formerly Dr. Brown's, near Fleetstreet, a large golden ball being over the gate.</title>
+                  <author>Daffey, Ellen.</author>
+                  <author>Daffy, Anthony.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.n. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2479 is uncut sheet.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Popular --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137002:1"/>
+            <head>DIRECTIONS Given by Anthony Daffey, For taking the Safe, Innocent, and Succeſsful CORDIAL DRINK, CALLED <hi>ELIXIR SAL<g ref="char:V">Ʋ</g>TIS,</hi> Truly Prepared by me <hi>Ellen. Daffey,</hi> now Living in the Square in <hi>Salisbury-Court,</hi> in the Houſe that was formerly Dr. <hi>Brown</hi>'s, near <hi>Fleetſtreet,</hi> a large Golden Ball being over the Gate.</head>
+            <div n="1" type="part">
+               <head>The Firſt general Obſervation.</head>
+               <p>FOR ſuch Perſons as are oppreſt with <hi>Chronical Diſtemp<g ref="char:EOLhyphen"/>ers,</hi> whether the <hi>Gout, Stone, Collick, Ptiſick, Dropſie,</hi> &amp;c. and have divers years been tortur'd and bow'd down under the burden of them: I ſay, for Diſtempers habitual to, and radicated in the body, it cannot be rationally expected, that this or any means under Heaven may on a ſuddain effect their Cure, any more, than that a ſmall ſhower of rain (after a long ſeaſon of Sum<g ref="char:EOLhyphen"/>mers Drought) ſhould preſently revive the parched and dying
+<pb n="2" facs="tcp:137002:2"/>
+Flowers and Herbs of the Field, and reſtore them to their lively verdure and greenneſs: To Perſons therefore infected with theſe Chronical Diſtempers, and diſpoſed to uſe the means of this my Drink, I give this advice, that they take the ſame according to the enſuing particular Directions, and patiently wait upon the Almigh<g ref="char:EOLhyphen"/>ty Phyſician of Soul and Body for his Bleſſing, and I doubt not, but they (as well as others have) will find very much relief, at leaſt by eaſe of their pains, if not the perfect cure of their diſeaſe; which ſome aged Perſons have happily experienced. Moreover, let not the Patients (having taken this Drink) impatiently expect its ope<g ref="char:EOLhyphen"/>ration of working with them on a ſudden; for Experience hath found that on ſome Bodies it is 6 hours, ſome 8, and on ſome 12 hours, before it works; and in moſt Diſtempers, its operation is ſo gentle and moderate, that the Patients may (with ſafety) follow their buſineſs and occaſions, either at home or abroad.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond general Obſervation.</head>
+               <p>LEt the Patient (afflicted with any of the Diſtempers, in the Book of my <hi>Cordial</hi> Virtues mentioned) have a due regard to the ſtate and condition of his or her Body: If the Body be Coſtive, (as moſt generally perſons under ſuch diſtempers are) the firſt doſe (if the age, and ſtrength of nature will permit) to be three ſpoon<g ref="char:EOLhyphen"/>fuls at the Patients going to bed, and the like doſe at the up-riſing in the Morning: But in caſe the Body be Laxative, then let the firſt doſe over-night be one ſpoonful, and another at the up-riſing in the Morning, and ſo let the Doſe be encreaſed by one ſpoonful each time, if the Patient's ſtrength may admit, till it comes to three ſpoonfuls, (which without good advice) none is to exceed. In taking the ſame, let the Patient uſe as much exerciſe and ſtirring as ſtrength of Body may admit. Here likewiſe obſerve, the Patient ought to avoid Melancholly, and keep a good dyet; and it is con<g ref="char:EOLhyphen"/>venient to make a meſs of Broth, or ſomething warm an hour after the morning Doſe, which is found more proper than Poſſet-Ale.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="3" facs="tcp:137002:3"/>
+               <head>The third general Obſervation.</head>
+               <p>THis Drink hath been many Years experienced of ſo innocen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſure operation, that it may be ſafely taken at any ſeaſon of the year; for neither heat nor cold can obſtruct its influence or operation on the Body. Moreover, this Drink will retain its Virtue though kept two years together (as divers perſons have found) but I ſuppoſe it may be kept much longer. Another Vertue and innate Property of this Drink (diſtinguiſhing it from all other Phyſick whatſoever) is, that at the Patients leaving off the ſame the Patients Body remains not Coſtive, but in a very good health<g ref="char:EOLhyphen"/>ful temper and lightſome condition.</p>
+               <div type="section">
+                  <head>The GO<g ref="char:V">Ʋ</g>T</head>
+                  <p>LEt the Patient (having competent ſtrength of Nature) take Three Spoonfulls of this <hi>Elixir</hi> in the Morning faſting, and the like Doſe laſt at Night; the which courſe let be followed ſo long as the Patients ſtrength of Body will bear it, and eſpecially if the pains be found to move from one joynt to another: I adviſe the Patient to be active, and uſe as much ſtirring exerciſe as con<g ref="char:EOLhyphen"/>veniently may be. Here Note, that after four Doſes, or twelve Spoonfulls taking, the Patient may (if the ſame be found to work five or ſix times a day) intermit a day, and then return to the Drink, taking then two Spoonfulls in the Morning, one ſpoonfull an hour before dinner, and two Spoonfulls laſt at Night; but let not the Patient, finding not his expectation anſwered, on a ſudden lay aſide the further uſe of this Choice Remedy; for although ſome have been Cured of this torturing malady in taking but of one half-pint Bottle of this Drink, yet ſome require a pint, and others more, according as the Diſeaſe hath more or leſs ſeated and riveted it ſelf in the Body.</p>
+               </div>
+               <div type="section">
+                  <head>The Stone or Gravel in the Kidneys.</head>
+                  <p>IF the Patient's pain lye moſt either in the Reins or the Flank, it is an indication, whereby he or ſhe may conclude, the Ma<g ref="char:EOLhyphen"/>lady is the Stone or Gravel in the Kidneys; then the Patient's Body and ſtrength of Nature admitting, let him or her take the Doſe
+<pb n="4" facs="tcp:137002:4"/>
+Doſe, or three ſpoonfuls laſt at Night and firſt in the Morning and preſently after it, uſe as much ſtirring exerciſe as may be; and although Riding may at that time be burthenſome, yet it would prove very profitable and advantagious; for by uſing extra<g ref="char:EOLhyphen"/>ordinary exerciſes and agitaitons of the Body divers have been the ſooner diſcharged of this torturing Diſtemper, as hath been experienced by Mr. <hi>Crawley</hi> (in the printed Sheet of this Drinks Vertues mentioned) by taking but three Spoonfuls of this Drink, and riding ten miles upon it, voided three Stones, each as big as a Horſe-bean, (as he himſelf teſtified.)</p>
+               </div>
+               <div type="section">
+                  <head>STONE in the Bladder.</head>
+                  <p>LEt the Patient afflicted with the <hi>Stone</hi> in the Bladder conſi<g ref="char:EOLhyphen"/>der the bigneſs of it, and take the full Doſe of three Spoonfuls laſt at Night, and the like firſt in the Morning continuing the ſame for three days; then intermit two days and return to it, then taking only two Spoonfuls laſt at Night, and the like Doſe firſt in the Morning<g ref="char:punc">▪</g> which courſe let the Patient obſerve, and by the Lord's Bleſſing the Stone will be found to waſt gradually, and in concluſion, to come away; but Patience is to be exerciſed, for although <hi>Thomas Hinde</hi> voided away the Stone in nine Spoon<g ref="char:EOLhyphen"/>fuls, or three Doſes taking, yet that great Stone voided by the ſaid Mr. <hi>Crawley</hi> was high twelve Months in waſting before it could come away, and was then rendred ſo ſoft that it crumbled away between the ſingers.</p>
+               </div>
+               <div type="section">
+                  <head>Exulcerations of the Kidneys.</head>
+                  <p>FOr the Exulceration of the Kidneys, rendering the patients Urine like Blood, let the Patient keep the Direction of the <hi>Second General Obſervation,</hi> and ſo firſt open and clean the Body for two days, and then for two days Night and Morning, take one ſpoonful or two, (according to the Meaſure of ſtrength) and then intermit two days, and after take one Spoonful at night and one in the Morning, and one an hour before dinner: this me<g ref="char:EOLhyphen"/>thod in taking the ſame hath, by the Lords Bleſſing, been found eminently ſucceſsful in the healing and cleanſing any Exulceration in the Reins or Bladder.</p>
+               </div>
+               <div type="section">
+                  <pb n="5" facs="tcp:137002:5"/>
+                  <head>Collick, and Griping in the G<g ref="char:V">Ʋ</g>TS.</head>
+                  <p>LEt the Patient (at any time of pain) take three ſpoonfuls, which may eaſe or mitigate the pain; and if he or ſhe be not diſchar<g ref="char:EOLhyphen"/>ged of the Pains, let him or her take three ſpoonfuls more five hours after; but if the Patient be of a coſtive or corpulent Body, let ſuch a one take a Doſe of four ſpoonfuls in the Pain-fit, and (if the pain continue) four ſpoonfuls more ſix hours after; for this Diſtemper is uſually ſadly violent, and muſt be follow'd cloſe: And this means (thus taken) fails not, by the Bleſſing of Almighty God, to become Maſter of this ſad Malady. Afterwards (for cleanſing the Body of the dregs of it) let the Patient leſſen the Doſe according to the Di<g ref="char:EOLhyphen"/>rections of the <hi>Second general Obſervation.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>PHTHISICK.</head>
+                  <p>LEt the Patient weigh and conſider the <hi>Three general Obſervations,</hi> and (according to direction thereof) open and cleanſe the Bo<g ref="char:EOLhyphen"/>dy for four days,; and after that, take only half a ſpoonful when the Cough is perceiv'd coming upon him or her, and one ſpoonful an hour before Dinner; and this courſe (follow'd) will by degrees gain power over, and waſte the Diſtemper, yea, and ſtrengthen Nature againſt it: And this courſe may be taken even in Winter, when the Diſtemper is predominant and ſtrongeſt upon the Patient; by which means he or ſhe will (by the Lord's Bleſſing) find their breath free, and the Cough exceedingly abated, if not taken away: but as to youthful perſons that are not far gone in this ſad Malady, a Pint of this <hi>Drink</hi> in the <hi>Spring,</hi> and as much in the <hi>Fall,</hi> taken as before directed, will, by God's bleſſing, not fail of a perfect Cure. And unto aged People afflicted with this <hi>Diſtemper,</hi> it doth ſo far aid Nature, and ſtrengthen them, as in the following Winter to render their Lives pleaſant to them, provided always that the Patient be moderate in drinking, and have a care to prevent taking cold, and keep a good Diet.</p>
+               </div>
+               <div type="section">
+                  <head>DROPSY.</head>
+                  <p>IF it be predominant upon the Patient, (known by the bigneſs of the <hi>Belly,</hi> ſwelling of the <hi>Limbs</hi> and <hi>Face</hi>) let the Patient take four ſpoonfuls firſt in the Morning, and the like Doſe laſt at Night, for four days together, then intermit two days, and afterwards keep to three ſpoonfuls at Night, and the like Doſe in the Morning.</p>
+               </div>
+               <div type="section">
+                  <pb n="6" facs="tcp:137002:6"/>
+                  <head>SC<g ref="char:V">Ʋ</g>RVEY.</head>
+                  <p>THe <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>curvey,</hi> known by knots in the fleſh, and blue ſpots in the skin. Let the Patient keep to the Directions in the third general Obſervation, having due regard to the ſtrength of their bodies, and take the drink two days, intermitting two days for the ſpace of a month, and then take only one ſpoonfull in the morning and another an hour before dinner.</p>
+               </div>
+               <div type="section">
+                  <head>S<g ref="char:V">Ʋ</g>RFEITS.</head>
+                  <p>LEt the Patient take the ordinary Doſe of three Spoonfuls at night, and three in the morning, for ſix times without inter<g ref="char:EOLhyphen"/>miſſion, and doubt not but (by the Lord's bleſſing) the ſame will be found ſucceſsful to his or her Relief and Cure, tho' the height of the diſtemper had brought the Patient very low, and nigh the gates of death: And I would adviſe others, and particularly ſuch as are apt to drink much Wine (bad and ſophiſticated Wines being very frequent and fatal in this City and elſewhere) that they do upon the leaſt illneſs and indiſpoſition of Body apply themſelves unto this choice Remedy, either the ſame night or the next morning, or both; for this Drink is experienced a choice Antidote for pre<g ref="char:EOLhyphen"/>venting of <hi>Surſeits</hi> (inſenſibly ſtealing upon men) and expelling out of the Body that malignant Matter which is the occaſion and riſe thereof.</p>
+               </div>
+               <div type="section">
+                  <head>PESTILENCE.</head>
+                  <p>LEt the Patient, when firſt ſmitten with this Viſitation or with illneſs, accompanied with any ſymptom of the Diſtemper (re<g ref="char:EOLhyphen"/>gard being had to the direction of the three general Obſervations) take three ſpoonfuls, or leſs, of this Drink (according to the Pa<g ref="char:EOLhyphen"/>tients ſtrength or weakneſs of Body) and ſo proceed as occaſion ſhall require; and I queſtion not, but (through mercy) the ſame will be found an effectual means, as well for overcoming the Di<g ref="char:EOLhyphen"/>ſtemper, as for ſtrengthening Nature, and reſtoring Health (unleſs the Patient's Viſitation be the Meſſenger of Death) as hath been happily experienced, and will be atteſted by divers perſons in my own and other Families, which ſtaid in the City in the time of the laſt great Viſitation, and were Viſited, and yet through God's goodneſs do ſtill remain in the Land of the Living.</p>
+               </div>
+               <div type="section">
+                  <pb n="7" facs="tcp:137002:7"/>
+                  <head>Fits of the Mother, and Vapours from the Spleen.</head>
+                  <p>LEt the Patient (having regard to the direction of the general Obſervations) begin with one, or with two Spoonfuls of this Drink, and ſo continue and raiſe the Doſe, according to what the Patients ſtrength may admit, remembring that the greateſt Doſe preſcrib'd does not exceed three Spoonfuls, and let the proper Doſe be taken at any time whatſoever, when the fit is found to be coming upon him or her.</p>
+               </div>
+               <div type="section">
+                  <head>GREEN-SICKNESS.</head>
+                  <p>LEt the Patient duly obſerve the direction of the three general Obſervations, uſing as much ſtirring Exerciſe, as ſtrength will permit; and in four days time, ſhe will, by the bleſſing of God, find her Diſtemper diminiſh, and in taking of an half pint Bottle, the Cheeks and Lips will return to their former Roſe-colour.</p>
+               </div>
+               <div type="section">
+                  <head>CHILDRENS Diſtempers.</head>
+                  <p>FOr CHILDRENS DISTEMPERS, whether the Worms<g ref="char:punc">▪</g> Rickets, the Stone, Convulſions, Gripes, Kings-Evil, Joynt-Evil, or any Diſtemper proceeding from Wind or Crudities, gen<g ref="char:EOLhyphen"/>dred by means of undigeſted Matter, (the effect of their cold and weak Stomachs) which is the granted and original cauſe of theſe their Diſtempers: The way of adminiſtring this drink muſt be on this manner; to a Babe of a month old, give (in time of its affliction) half a Child's ſpoonful thereof, mixed with dou<g ref="char:EOLhyphen"/>ble the quantity of ſmall Ale, not exceeding this doſe, nor oftner <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>han once in 12 hours time. To a Babe of half a year old, let the doſe be half a middling ſpoonful of the drink, with double the quantity of ſmall Ale. To one of a year old, one ſpoonful, with the like quantity of ſmall Ale. To a Child of four years, one ſpoon<g ref="char:EOLhyphen"/>ful of the drink alone. To one of ſeven years old, two ſpoonfuls, and to one of 12 years old, two ſpoonfuls and an half; in any of theſe Diſtempers, not exceeding one Doſe in twelve hours, except only in the Gripes, and then one Doſe every five hours; where ob<g ref="char:EOLhyphen"/>ſerve, that in moſt of theſe Diſtempers it hath pleaſed God ſo to bleſs this Means, that two Doſes have been found ſucceſsful to Babes and Childrens cure. <hi>Here note,</hi> That the ſtrength of the Child and its Diſtemper will be a ſurer Guide for apportioning a proper Doſe, than the Child's Age.</p>
+               </div>
+               <div type="section">
+                  <pb n="8" facs="tcp:137002:8" rendition="simple:additions"/>
+                  <head>The Stone in Babes and Children.</head>
+                  <p>ANd if the Diſtemper be the <hi>Stone,</hi> obſerve the ſame Directions in adminiſtring this <hi>Drink</hi> to Babes and Children (of all Ages) as is above preſcrib'd for thoſe under other Diſtempers, except only that Diſtemper of the <hi>Gripes;</hi> and this Drink gradually waſteth the <hi>Stone,</hi> and turns Stones to Gravel, bringing them away as ſoft as Meal, and brings away Worms as Skins; it alſo brings away a ſlimy Sub<g ref="char:EOLhyphen"/>ſtance, ſome black, ſome green, (the cauſe of theſe Diſtempers) which manifold Experience hath fully confirm'd.</p>
+               </div>
+               <div type="section">
+                  <head>Convulſion-Fits.</head>
+                  <p>MOreover it hath alſo been experienced, that unto a Child of ſeven years old (afflicted with the <hi>Gripes</hi> or <hi>Convulſion-Fits</hi> in extremity) there hath been found neceſſary the ſame doſe, as for a Man, being three ſpoonfuls; and five hours after the like Doſe.</p>
+               </div>
+               <div type="section">
+                  <head>Conſumptions, bad Digeſtions.</head>
+                  <p>LET Conſumptive Perſons of either Sex take one ſpoonful of this drink an hour before dinner, and another ſuch Doſe an hour after dinner; for many weak Conſumptive perſons have, through the <hi>Lord</hi>'s bleſſing, experienced the ſame very ſucceſsful in ſtrength<g ref="char:EOLhyphen"/>ning weak Nature; converting their food into good nouriſhment<g ref="char:punc">▪</g> and inſtrumental in reſtoring their ſtrength.</p>
+               </div>
+               <div type="section">
+                  <head>Agues.</head>
+                  <p>LET the Patient (an hour before the expected time of the Fit) take three ſpoonfuls, being at what time ſoever; and two Spoonfuls ſix hours after: which done, let the patient obſerve the <hi>Directions</hi> of the ſecond general <hi>Obſervation.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Piles.</head>
+                  <p>LET the Perſon afflicted diligently follow the <hi>Direction</hi> in the ſecond general <hi>Obſervation;</hi> it having been lately found to be ſucceſsful.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
